@@ -1,0 +1,13 @@
+.botonimg{
+	width: 80px;
+	height: 80px;
+}
+.grupologo{
+	float:left;
+}
+.nombrelogo{
+	width: 80px;
+	height: 80px;
+	word-wrap: break-word;
+	white-space:normal;
+}
